@@ -5,7 +5,7 @@ This Ecommerce dataset simulates transactional data for a fashion retailer selli
 I have visualised some of this data within a workbook on Tableau Public.
 
 ## Key Features ##
-https://public.tableau.com/shared/JTZKP58MT?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/shared/8X7G64ZYW?:display_count=n&:origin=viz_share_link
 - **Sales Performance Dashboard**
 - **Customer Segmentation Analysis**
 - **Product Category Trends**
